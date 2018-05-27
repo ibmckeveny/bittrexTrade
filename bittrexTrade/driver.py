@@ -4,6 +4,4 @@ my_bittrex = Bittrex(None, None, api_version=API_V1_1)  # or defaulting to v1.1 
 
 print(my_bittrex.get_markets())
 
-print(my_bittrex.get_markets())
-print(my_bittrex.get_markets())
-print(my_bittrex.get_markets())
+xyzzyx
